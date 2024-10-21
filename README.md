@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## My name is Florian, and I'm really happy to be working with you.
+At the moment, I’m working with Angular, TypeScript, and C# .NET.
+😇
 <!--
 **LEGALOUDECFlorian/LEGALOUDECFlorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
